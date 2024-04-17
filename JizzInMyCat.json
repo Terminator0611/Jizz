@@ -2,5 +2,23 @@
     "name": "JizzedCat",
     "symbol": "JIZZEDCAT",
     "description": "JIZZED CAT :)",
-    "image": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp"
-}
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
+          "type": "image/webp"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "567xQe5j2esoe4PQfy6MU1CTY5V88J4gzmhFgHzp4j1r",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

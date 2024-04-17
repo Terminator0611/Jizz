@@ -3,12 +3,12 @@
     "symbol": "CATJIZZ",
     "description": "Cat Jizz",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/CATJIZZ.webp",
+    "image": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
     "attributes": [],
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/CATJIZZ.webp",
+          "uri": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
           "type": "image/webp"
         }
       ],

@@ -1,0 +1,24 @@
+{
+    "name": "Cat Jizz",
+    "symbol": "CATJIZZ",
+    "description": "Cat Jizz",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/Terminator0611/Jizz/main/jizzcat.webp",
+          "type": "image/webp"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "XBgzw8U521YeSfoaUzgtHGj3tfmM3YxDxb6gYw4Hxbt",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
